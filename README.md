@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ItsXenos
 - 👀 I’m interested in coding, music, and excercise.
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning to code. Feedback is appreciated! 
 - 💞️ I’m looking to collaborate on projects, applications, and games.
 - 📫 How to reach me ...
 
